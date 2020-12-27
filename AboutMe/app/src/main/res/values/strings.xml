@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Rahul Priyadarshi</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi I am Rahul Priyadarshi.
+\n\nI am passionate about technology, backend development, analytics, and machine intelligence. Having served as an Intern and then System Engineer for over a year. I have a demonstrated experience of working in teams and across groups.
+\nSo far, I have done a number of data science projects including, Recommender Systems, Web development using angular, spring, struts, and RPA using AssistEdge(Automation tool).
+\nI have developed my skills in Java programming, Data Structures and having prior experience can comfortably work with R programming, C,
+Kotlin, JavaScript, Unix Shell script, Github, My SQL, and Python.
+\nI have basic knowledge of deep learning, Matlab, and Big Data. I\'ve participated in various coding events. Also, stood third in the coding event organized by interview bits.
+\nWith a keen interest in Web Development, Data Science, and Machine Learning, I am working and expanding my horizons in this field, nd I am always open for initiatives, challenges, and roles in every field.
+         xd..................... :)</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>

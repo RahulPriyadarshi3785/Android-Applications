@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue_1</item>
+        <item name="colorPrimaryDark">@color/blue_1</item>
+        <item name="colorAccent">@color/blue_5</item>
+    </style>
+
+    <style name="whiteBox">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/box_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">roboto</item>
+    </style>
+
+    <color name="blue_1">#00101f</color>
+    <color name="blue_5">#0078ff</color>
+</resources>

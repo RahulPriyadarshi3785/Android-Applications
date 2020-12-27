@@ -1,17 +1,20 @@
-# Android-Applications
+# Android-Applications by *Rahul Priyadarshi*
 The projects are made using kotlin language.
 
 The projects made are for learning purpose.
-Each folder has a project and working project is captured in a video inside Results folder with project name in .mp4 format.
+Each folder has a project and working project is captured in a video inside **Results** folder with project name in *.mp4* format.
 
-List of Projects:
-1). Dice Roller
-2). About me
-3). ColorMyViews
+**List of Projects:**
+1. Dice Roller
+1. About me
+1. ColorMyViews
 
+--------------------------------------------------------
+
+**Steps for running locally:**
 
 For running project locally follow the given steps:
-1). Download the folder.
-2). import project in android studio
-3). Run on your devices or AVD emulators
+* Download the folder.
+* Import project in **Android Studio**.
+* Run on your devices or AVD emulators.
 

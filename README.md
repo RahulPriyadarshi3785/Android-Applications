@@ -16,5 +16,5 @@ Each folder has a project and working project is captured in a video inside **Re
 For running project locally follow the given steps:
 * Download the folder.
 * Import project in **Android Studio**.
-* Run on your devices or AVD emulators.
+* Run on your mobile devices or *AVD emulators*.
 
